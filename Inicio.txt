@@ -1,0 +1,5 @@
+Creado por el Integrante 1: Chencho.
+1. Nos hemos creado la cuenta en github.
+2. He creado el proyecto y he invitado a pablo.
+3. Hemos instalado git para subir los archivos.
+4. He subido la parte de 'Vista'.
