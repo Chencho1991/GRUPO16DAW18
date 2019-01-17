@@ -1,0 +1,5 @@
+1. Descargar el proyecto si se desea localmente.
+2. Si se desea en un servidor, lo subiremos al mismo.
+3. Ejecutamos install.php y tendremos que dar permisos si el servidor lo requiere.
+4. En el mismo install.php rellenamos los campos requeridos "Nombre de la BD", "Usuario" y "Contraseña".
+5. Si ha ido todo correctamente, abrimos "/web" donde se encuentra el index.php y se abre la aplicación.
